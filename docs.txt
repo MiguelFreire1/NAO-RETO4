@@ -1,2 +1,2 @@
-Este documento va a servir para el RETO 4.
-Rama B.
+=======
+Este documento servirá para realizar el reto 4 de NAO.
